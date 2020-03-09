@@ -1,0 +1,60 @@
+@font-face {
+   font-family: 'Open Sans Bold';
+   src:
+       url('Open Sans Bold.eot') format('eot'),
+       url('Open Sans Bold.otf') format('otf'),
+       url('Open Sans Bold.svg') format('svg'),
+       url('Open Sans Bold.ttf') format('ttf'),
+       url('Open Sans Bold.woff') format('woff'),
+       url('Open Sans Bold.woff2') format('woff2');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Open Sans Light';
+   src:
+       url('Open Sans Light.eot') format('eot'),
+       url('Open Sans Light.otf') format('otf'),
+       url('Open Sans Light.svg') format('svg'),
+       url('Open Sans Light.ttf') format('ttf'),
+       url('Open Sans Light.woff') format('woff'),
+       url('Open Sans Light.woff2') format('woff2');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Open Sans Regular';
+   src:
+       url('Open Sans Regular.eot') format('eot'),
+       url('Open Sans Regular.otf') format('otf'),
+       url('Open Sans Regular.svg') format('svg'),
+       url('Open Sans Regular.ttf') format('ttf'),
+       url('Open Sans Regular.woff') format('woff'),
+       url('Open Sans Regular.woff2') format('woff2');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Open Sans Semibold1';
+   src:
+       url('Open Sans Semibold1.eot') format('eot'),
+       url('Open Sans Semibold1.otf') format('otf'),
+       url('Open Sans Semibold1.svg') format('svg'),
+       url('Open Sans Semibold1.ttf') format('ttf'),
+       url('Open Sans Semibold1.woff') format('woff'),
+       url('Open Sans Semibold1.woff2') format('woff2');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Roboto-Regular';
+   src:
+       url('Roboto-Regular.eot') format('eot'),
+       url('Roboto-Regular.otf') format('otf'),
+       url('Roboto-Regular.svg') format('svg'),
+       url('Roboto-Regular.ttf') format('ttf'),
+       url('Roboto-Regular.woff') format('woff'),
+       url('Roboto-Regular.woff2') format('woff2');
+   font-weight: normal;
+   font-style: normal;
+}
